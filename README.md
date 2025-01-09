@@ -1,6 +1,6 @@
 # 👨‍💻 Desenvolvedor Full-Stack 👨‍🔧
 
-Sou um desenvolvedor Full-Stack apaixonado por criar aplicações completas e eficientes. Trabalhei com tecnologias como **Node.js**, **ReactJS**, **Express**, **MySQL**, **XAMPP**, **Tailwind CSS** e **Bootstrap**.
+Sou um desenvolvedor Full-Stack apaixonado por criar aplicações completas e eficientes. Trabalho atualmente com tecnologias como **JavaScript**, **Node.js**, **ReactJS**, **Express**, **MySQL**, **XAMPP**, **Tailwind CSS** e **Bootstrap**.
 
 ## 🚀 **Tecnologias**
 
@@ -15,7 +15,7 @@ Sou um desenvolvedor Full-Stack apaixonado por criar aplicações completas e ef
 ## 🚀 **Aprendendo**
 <div>
   <img width="40" height="30" src="https://icongr.am/devicon/ruby-original.svg?size=128&color=currentColor">
-  <img width="40" height="30" src="https://icongr.am/devicon/rails-plain.svg?size=128&color=currentColor">
+  <img width="40" height="30" src="https://icongr.am/devicon/rails-plain.svg?size=128&color=ffffff">
   <img width="40" height="30" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
 </div>
 
