@@ -1,4 +1,4 @@
-# 👨‍💻 Desenvolvedor Full-Stack 👨‍🔧
+# 👨‍💻 Desenvolvedor Full-Stack
 
 Sou um desenvolvedor Full-Stack apaixonado por criar aplicações completas e eficientes. Trabalho atualmente com tecnologias como **JavaScript**, **Node.js**, **ReactJS**, **Express**, **MySQL**, **XAMPP**, **Tailwind CSS** e **Bootstrap**.
 
