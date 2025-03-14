@@ -27,8 +27,8 @@ Trabalho bem em equipe, sempre buscando entregar soluções escaláveis e robust
 
 ## 📫 **Contato**
 
-<a width="40" height="30" href="https://www.linkedin.com/in/viniciusgardenal">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+<a  href="https://www.linkedin.com/in/viniciusgardenal">
+            <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 </a>
 
 - [E-mail](mailto:viniciusgardenal@outlook.com)
