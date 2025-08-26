@@ -17,7 +17,7 @@ Busco ativamente por oportunidades como desenvolvedor júnior ou estagiário par
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="60%">
       <strong>Linguagens & Frameworks</strong><br><br>
       <img src="https://icongr.am/devicon/javascript-original.svg?size=40" alt="JavaScript">
       <img src="https://icongr.am/devicon/python-original.svg?size=40" alt="Python">
@@ -25,9 +25,8 @@ Busco ativamente por oportunidades como desenvolvedor júnior ou estagiário par
       <img src="https://icongr.am/devicon/csharp-original.svg?size=40" alt="C#">
       <img src="https://icongr.am/devicon/react-original.svg?size=40" alt="React.js">
       <img src="https://icongr.am/devicon/nodejs-original.svg?size=40" alt="Node.js">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" height="40" alt="Express.js">
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="60%">
       <strong>Design & Desenvolvimento</strong><br><br>
       <img src="https://icongr.am/devicon/html5-original.svg?size=40" alt="HTML5">
       <img src="https://icongr.am/devicon/css3-original.svg?size=40" alt="CSS3">
@@ -36,7 +35,7 @@ Busco ativamente por oportunidades como desenvolvedor júnior ou estagiário par
     </td>
   </tr>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="40%">
       <strong>Banco de Dados & Ferramentas</strong><br><br>
       <img src="https://icongr.am/devicon/mysql-original.svg?size=40" alt="MySQL">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git">
@@ -44,7 +43,7 @@ Busco ativamente por oportunidades como desenvolvedor júnior ou estagiário par
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40" alt="Postman">
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="40%">
       <strong>Outras Competências</strong><br><br>
       • Metodologias Ágeis (Scrum)<br>
       • API REST<br>
