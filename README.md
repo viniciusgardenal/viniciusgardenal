@@ -3,13 +3,13 @@ Sou um desenvolvedor Full-Stack focado em criar aplicações completas e eficien
 
 ## 🚀 **Tecnologias**
 <div>
-  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
   <img width="40" height="30" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
   <img width="40" height="30" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
   <img width="40" height="30" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
   <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" />    
   <img width="40" height="30" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor">
-  <img width="40" height="30" src="https://icongr.am/devicon/sequelize-original.svg?size=128&color=currentColor">
+  <img width="40" height="30" src="https://icongr.am/devicon/sequelize-original.svg?size=128&color=currentColor"> 
+  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
 </div>
 
 ## 🚀 **Aprendendo**
