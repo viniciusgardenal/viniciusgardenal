@@ -7,7 +7,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou um estudante de Engenharia de Software e desenvolvedor com experiência em desenvolvimento full-stack. Desde janeiro de 2023, trabalho como Suporte Técnico, onde comecei como estagiário e fui efetivado em junho de 2024. Minha rotina envolve a resolução de problemas e a implementação de melhorias em sistemas web além de prestar suporte no ERP da empresa.
+Formado no curso de Bacharelado em Engenharia de Software e desenvolvedor com experiência em desenvolvimento full-stack. Desde janeiro de 2023, trabalho como Suporte Técnico, onde comecei como estagiário e fui efetivado em junho de 2024. Minha rotina envolve a resolução de problemas e a implementação de melhorias em sistemas web além de prestar suporte no ERP da empresa.
 
 Busco ativamente por oportunidades como desenvolvedor júnior ou estagiário para contribuir com a criação de soluções inovadoras, com foco especial em APIs RESTful e interfaces de usuário responsivas.
 
@@ -71,5 +71,5 @@ Como Trabalho de Conclusão de Curso (TCC), desenvolvi uma aplicação full-stac
 ### 🎓 Formação Acadêmica
 
 - **Bacharelado em Engenharia de Software** - UNOESTE
-  - Previsão de Conclusão: Dezembro de 2025.
+  - Bacharel concluído em dezembro/25.
   - Destaque acadêmico com o 1º lugar em média em múltiplos semestres.
