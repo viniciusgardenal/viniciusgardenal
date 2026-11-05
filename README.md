@@ -1,4 +1,4 @@
-# Olá, eu sou Vinicius dos Santos Gardenal 👋
+# Olá, eu sou Vinícius dos Santos Gardenal 👋
 
 <div align="center">
   <a href="https://www.linkedin.com/in/viniciusgardenal" target="_blank">
@@ -13,85 +13,51 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou Bacharel em Engenharia de Software com forte base em desenvolvimento full-stack. Com quase quatro anos de vivência no setor de tecnologia, iniciei minha trajetória no suporte técnico em agência de marketing, onde aprimorei minha capacidade de resolução de problemas e comunicação. 
+Sou Engenheiro de Software, formado em 1º lugar da turma, e Desenvolvedor Full-Stack, com experiência prática desde 2023 no desenvolvimento de aplicações web, APIs RESTful e soluções que atendem a diferentes necessidades de negócio.
 
-Atualmente, atuo como Assistente de TI com foco em Análise de Dados no setor comercial educacional. Minha rotina envolve a extração de dados, suporte a ERPs e a administração de plataformas de atendimento e CRMs.
+Minha trajetória na tecnologia começou com suporte técnico e infraestrutura em uma agência de marketing digital. Essa experiência foi fundamental para desenvolver minha capacidade analítica, comunicação, autonomia e habilidade para resolver problemas de forma ágil, mesmo em situações de pressão.
 
-A graduação e a experiência prática me deram uma visão ampla do ciclo de vida de um software. Busco ativamente por oportunidades como desenvolvedor júnior para contribuir com a criação de soluções inovadoras, com foco especial em APIs RESTful, interfaces responsivas e arquitetura escalável.
+Atualmente, trabalho com TI aplicada ao Marketing Comercial Educacional, participando do desenvolvimento de sistemas web internos, como plataformas de captação de leads, painéis administrativos e ferramentas de gestão de eventos. Também atuo com integrações de dados, suporte a ERPs e administração de CRM, especialmente o Microsoft Dynamics 365.
 
-- 🔭 **Atualmente trabalhando em:** Integrações de dados e suporte a sistemas ERP e CRMs.
-- 🌱 **Atualmente aprofundando em:** C#, ecossistema .NET e arquitetura de software.
-- 💬 **Pergunte-me sobre:** Python, Node.js, React.
+Gosto de transformar necessidades reais em soluções tecnológicas eficientes, sempre buscando aprender, evoluir e entregar resultados. Meu objetivo é seguir crescendo como Desenvolvedor Full-Stack, contribuindo para a construção de sistemas escaláveis, interfaces modernas e aplicações que realmente façam a diferença para o negócio.
 
----
-
-### 🛠️ Habilidades e Tecnologias
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Linguagens & Frameworks</strong><br><br>
-      <img src="https://icongr.am/devicon/javascript-original.svg?size=40" alt="JavaScript" title="JavaScript">
-      <img src="https://icongr.am/devicon/python-original.svg?size=40" alt="Python" title="Python">
-      <img src="https://icongr.am/devicon/csharp-original.svg?size=40" alt="C#" title="C#">
-      <img src="https://icongr.am/devicon/php-original.svg?size=40" alt="PHP" title="PHP">
-      <img src="https://icongr.am/devicon/react-original.svg?size=40" alt="React.js" title="React">
-      <img src="https://icongr.am/devicon/nodejs-original.svg?size=40" alt="Node.js" title="Node.js">
-    </td>
-    <td valign="top" width="50%">
-      <strong>Design & Front-End</strong><br><br>
-      <img src="https://icongr.am/devicon/html5-original.svg?size=40" alt="HTML5" title="HTML5">
-      <img src="https://icongr.am/devicon/css3-original.svg?size=40" alt="CSS3" title="CSS3">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" title="Bootstrap">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS">
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Banco de Dados & Ferramentas</strong><br><br>
-      <img src="https://icongr.am/devicon/mysql-original.svg?size=40" alt="MySQL" title="MySQL">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub" title="GitHub">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" title="VS Code">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40" alt="Postman" title="Postman">
-    </td>
-    <td valign="top" width="50%">
-      <strong>Competências & Soft Skills</strong><br><br>
-      • Desenvolvimento de APIs REST<br>
-      • Análise de Requisitos e Dados<br>
-      • Metodologias Ágeis (Scrum)<br>
-      • Resolução Rápida de Problemas<br>
-      • Gestão de Comunidades
-    </td>
-  </tr>
-</table>
+- 🔭 **Atualmente trabalhando em:** Desenvolvimento de sistemas web internos, painéis administrativos e integrações com Microsoft Dynamics 365 CRM.
+- 🌱 **Atualmente aprofundando em:** C#, ecossistema .NET e Arquitetura de Software.
+- 💬 **Pergunte-me sobre:** Node.js, React, C#, PHP, Python e SQL.
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 🛠️ Stack Tecnológica & Competências
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viniciusgardenal&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="Estatísticas do GitHub" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusgardenal&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Linguagens Mais Usadas" width="48%">
-</div>
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Back-End** | <img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet,php,python" alt="Back-End" /> |
+| **Front-End** | <img src="https://skillicons.dev/icons?i=react,js,tailwind,bootstrap,html,css" alt="Front-End" /> |
+| **Dados & Tools** | <img src="https://skillicons.dev/icons?i=mysql,git,github,postman,vscode,visualstudio" alt="Tools" /> |
+| **Engenharia** | APIs RESTful • Microsoft Dynamics 365 CRM • Engenharia de Requisitos • Scrum |
+
+#### **Engenharia & Práticas**
+- **Arquitetura & Integração:** Construção de APIs RESTful, integração entre sistemas (ERPs/CRMs) e modelagem de bancos de dados relacionais.
+- **Processos & Produto:** Levantamento de requisitos, metodologias ágeis (Scrum/Kanban) e foco em usabilidade (UX/UI).
+- **Liderança & Comunicação:** Gestão de grandes comunidades online, criação de diretrizes e resolução ágil de problemas críticos.
 
 ---
 
 ### 🚀 Projeto em Destaque
 
-**[MedAgenda - Sistema ERP para Agendamento Médico](https://github.com/viniciusgardenal/medagenda)**
+**[MedAgenda - Sistema ERP para Gestão e Agendamento Médico](https://github.com/viniciusgardenal/medagenda)**
 
-Trabalho de Conclusão de Curso (TCC) no qual desenvolvi uma aplicação full-stack para a gestão completa de clínicas médicas.
+Aplicação web full-stack desenvolvida como Trabalho de Conclusão de Curso (TCC), projetada para informatizar e otimizar o fluxo operacional de clínicas médicas.
 
-- **Objetivo:** Gerenciar cadastros de pacientes, agendamentos de consultas e emissão de receitas digitais.
-- **Frontend:** Construído com **React.js** e **Tailwind CSS** para uma interface moderna e responsiva.
-- **Backend:** Desenvolvido com **Node.js (Express)** e banco de dados **MySQL**, utilizando APIs RESTful para uma integração eficiente.
-- **Destaque:** O projeto aplicou conceitos rigorosos de engenharia de software, incluindo análise de requisitos, escalabilidade e foco na usabilidade (UX/UI) para o usuário final.
+- **Solução:** Gestão integrada de prontuários e pacientes, controle inteligente de agendamentos de consultas e emissão de prescrições digitais.
+- **Front-End:** Construído com **React.js** e **Tailwind CSS**, priorizando usabilidade (UX/UI), acessibilidade e design responsivo.
+- **Back-End:** Arquitetura de API RESTful em **Node.js (Express)** integrada ao banco de dados relacional **MySQL**, garantindo segurança, validação de dados e desempenho.
+- **Engenharia:** Projeto concebido sob práticas sólidas de Engenharia de Software, desde o levantamento de requisitos e modelagem UML até testes e padronização de código.
 
 ---
 
 ### 🎓 Formação Acadêmica
 
-- **Bacharelado em Engenharia de Software** - Universidade do Oeste Paulista (UNOESTE)
+- **Bacharelado em Engenharia de Software** — Universidade do Oeste Paulista (UNOESTE)
   - Concluído em dezembro de 2025.
-  - Destaque acadêmico com o 1º lugar em média em múltiplos semestres.
+  - 🏆 **Láurea Acadêmica:** Premiado com o **1º lugar geral da turma** pelo melhor desempenho acadêmico ao longo da graduação.
