@@ -1,15 +1,13 @@
 # Olá, eu sou Vinícius dos Santos Gardenal 👋
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/viniciusgardenal" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
   </a>
-  <a href="mailto:vinicius_sgardenal@hotmail.com">
-    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:vinicius.sgardenal@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email">
   </a>
 </div>
-
-<br>
 
 ### 👨‍💻 Sobre Mim
 
